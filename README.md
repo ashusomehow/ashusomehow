@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ashusomehow@gmail.com**
 
-- 📧 LinkedIn- **https://www.linkedin.com/in/ashusomehow/**
+- 📧 LinkedIn - **https://www.linkedin.com/in/ashusomehow/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
