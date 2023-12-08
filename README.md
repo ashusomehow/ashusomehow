@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **ashusomehow@gmail.com**
 
+- 📧 LinkedIn- **https://www.linkedin.com/in/ashusomehow/**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ashusomehow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashusomehow" height="30" width="40" /></a>
